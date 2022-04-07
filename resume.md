@@ -31,7 +31,7 @@ Summary of your role
 Summary of your role
 
 - Accomplishment that contains **bold text**.
-- Accomplishment
+- Returning Summer 2022
 - Accomplishment
 - Accomplishment
 
